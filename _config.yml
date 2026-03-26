@@ -1,0 +1,52 @@
+title: Fabric IQ Walkthrough
+description: >-
+  A contractor's guide to building the Fabric IQ stack — Ontology, Data Agent,
+  and Operations Agent — grounded in official Microsoft Learn documentation.
+
+theme: just-the-docs
+
+url: "https://riley-roberson.github.io"
+baseurl: "/fabric-iq-walkthrough"
+
+# Navigation
+heading_anchors: true
+
+# Search
+search_enabled: true
+search.button: true
+
+# Mermaid diagrams
+mermaid:
+  version: "11"
+
+# Custom callouts
+callouts:
+  prerequisite:
+    title: Prerequisite
+    color: purple
+  warning:
+    title: Warning
+    color: red
+  tip:
+    title: Tip
+    color: green
+  important:
+    title: Important
+    color: yellow
+  note:
+    title: Note
+    color: blue
+
+# Footer
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/riley-roberson/fabric-iq-walkthrough"
+gh_edit_branch: "main"
+gh_edit_view_mode: "edit"
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+plugins:
+  - jekyll-seo-tag
