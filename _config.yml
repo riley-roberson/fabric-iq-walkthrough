@@ -5,8 +5,7 @@ description: >-
 
 theme: just-the-docs
 
-url: "https://riley-roberson.github.io"
-baseurl: "/fabric-iq-walkthrough"
+baseurl: ""
 
 # Navigation
 heading_anchors: true
