@@ -1,7 +1,7 @@
 ---
 title: Walkthrough Summary
 layout: default
-nav_order: 9
+nav_order: 13
 ---
 
 # Walkthrough Summary: End-to-End Flow
