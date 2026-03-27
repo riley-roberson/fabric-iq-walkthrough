@@ -7,6 +7,9 @@ theme: just-the-docs
 
 baseurl: ""
 
+# Color scheme
+color_scheme: dark
+
 # Navigation
 heading_anchors: true
 
